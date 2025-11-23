@@ -1,3 +1,4 @@
+
 """Tests for the Customer class."""
 
 import pytest
