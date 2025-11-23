@@ -1,3 +1,4 @@
+
 """
 Debug script for testing the Coffee Shop domain model.
 Use this file to interactively test the functionality of Customer, Coffee, and Order classes.
