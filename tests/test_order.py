@@ -1,3 +1,4 @@
+
 """Tests for the Order class."""
 
 import pytest
