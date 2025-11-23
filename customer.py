@@ -1,3 +1,4 @@
+
 class Customer:
     """Represents a coffee shop customer."""
     
