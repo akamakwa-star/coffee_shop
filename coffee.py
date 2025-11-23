@@ -1,3 +1,4 @@
+
 class Coffee:
     """Represents a coffee product."""
     
